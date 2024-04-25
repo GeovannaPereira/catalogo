@@ -1,0 +1,66 @@
+*{
+margin: 0;
+padding: 0%;
+}
+.fundo{
+    background-color: rgb(1, 2, 13);
+}
+  .cabeçalho{ 
+    background-color:#10555a ;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px 0;
+    margin: 0px;
+  }
+  .cabecalho-titulo{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 30px;
+}
+.titulo2{ 
+color: rgb(233, 238, 242);
+display: flex;
+align-items: center;
+padding: 44px 0;
+font-size: 55px;
+margin-left: 30px;
+}
+.estrutura-imagem{
+ image-resolution: 100%;
+ width: 40%;
+ height: 20%;
+ display: flex;
+}
+.borbo-texto-um{
+color:rgb(247, 252, 255);
+font-size: 25px;
+margin-left: 30px;
+margin-right: 30px; ;
+}
+.imagem{
+    display: inline;
+    text-align: center;
+    width: 220px;
+    padding: 2% 30px;
+    margin-top: 10px;
+}
+.imagem-lavanda{
+    display: inline-block;
+  
+}
+
+.paginas-imagem{
+  width: 50%;
+  height: 50%;
+  display:block;
+  image-resolution: 100%;
+}
+.lavanda{
+  color: aliceblue;
+  padding: 44px 0;
+font-size: 55px;
+margin: left 75%;
+display: inline-block;
+}
